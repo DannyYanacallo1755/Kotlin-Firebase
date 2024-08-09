@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinAndroid</string>
+    <string name="image_description">Descripción de la imagen</string>
+
+</resources>

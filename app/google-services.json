@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "313478372213",
+    "project_id": "flutter-map-159b2",
+    "storage_bucket": "flutter-map-159b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313478372213:android:af71e11d6e7969ba8e513c",
+        "android_client_info": {
+          "package_name": "com.example.kotlinandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8fez0IAF-1yYqBUa66-7dH_YBvu-Tfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313478372213-6crvfnj9u6vufs5s889bvksjfi8hiuvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geolocalizacion.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313478372213:android:379e0b67fad2979c8e513c",
+        "android_client_info": {
+          "package_name": "com.geolo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8fez0IAF-1yYqBUa66-7dH_YBvu-Tfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313478372213-6crvfnj9u6vufs5s889bvksjfi8hiuvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geolocalizacion.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313478372213:android:38391e8ba613cc538e513c",
+        "android_client_info": {
+          "package_name": "com.geolocalizacion.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8fez0IAF-1yYqBUa66-7dH_YBvu-Tfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313478372213-6crvfnj9u6vufs5s889bvksjfi8hiuvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geolocalizacion.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313478372213:android:aee47c533aa365a48e513c",
+        "android_client_info": {
+          "package_name": "com.topografo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8fez0IAF-1yYqBUa66-7dH_YBvu-Tfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313478372213-fnn6lb47vrs0nm7k1ldunra6l1eim0il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313478372213-6crvfnj9u6vufs5s889bvksjfi8hiuvr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geolocalizacion.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
