@@ -20,11 +20,4 @@ Puedes descargar las versiones de la aplicación desde los siguientes enlaces:
 - Un dispositivo Android para probar la aplicación.
 
 
-## Contribuciones
-
-Si deseas contribuir al proyecto, por favor revisa el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más información sobre cómo puedes participar.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
