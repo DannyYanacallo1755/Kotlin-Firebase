@@ -19,10 +19,6 @@ Puedes descargar las versiones de la aplicación desde los siguientes enlaces:
 - Android Studio para abrir y trabajar con el proyecto.
 - Un dispositivo Android para probar la aplicación.
 
-## Uso
-
-1. **Para instalar la APK**: Descarga el archivo APK y transfiérelo a tu dispositivo Android. Luego, abre el archivo en tu dispositivo para iniciar la instalación.
-2. **Para usar el AAB**: Si estás publicando en Google Play Store, sube el archivo AAB directamente desde la consola de desarrolladores de Google Play.
 
 ## Contribuciones
 
